@@ -1,0 +1,2 @@
+D:\Source\C\hekovani-krouzek\kalendar-c\x64\Debug\kalendar-c.exe
+F:\kalendar-c\x64\Debug\kalendar-c.exe

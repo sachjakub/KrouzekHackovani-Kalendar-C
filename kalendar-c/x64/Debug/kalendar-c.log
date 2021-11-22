@@ -1,0 +1,7 @@
+﻿  kalendar-c.cpp
+F:\kalendar-c\kalendar-c.cpp(18,21): warning C4473: 'scanf_s' : not enough arguments passed for format string
+F:\kalendar-c\kalendar-c.cpp(18,21): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+F:\kalendar-c\kalendar-c.cpp(18,21): message : the missing variadic argument 2 is required by format string '%c'
+F:\kalendar-c\kalendar-c.cpp(18,21): message : this argument is used as a buffer size
+F:\kalendar-c\kalendar-c.cpp(8,10): warning C4101: 'filename': unreferenced local variable
+  kalendar-c.vcxproj -> F:\kalendar-c\x64\Debug\kalendar-c.exe
